@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 - 💻 **Core Skills**: 
   - Frontend: **Angular**, **HTML**, **CSS**, **TypeScript**, **Bootstrap**
   - Backend: **Java**, **Spring Boot**
-  - Database: **SQL**, **MySQL**
+  - Database: **SQL**, **MySQL**,**AWS**
  
 - 📫 **Let's Connect**:  
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/rutuja-tathe-74328818b/)  
