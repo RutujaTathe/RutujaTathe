@@ -34,6 +34,8 @@ Welcome to my GitHub profile!
 ### 🔥 Highlighted Projects:
 - 🎯 [Social Media App](https://github.com/rutuja-tathe/social-media-app):  
   A application built with **Angular 17**, **Spring Boot**, and **MySQL**. Designed for seamless user interaction and efficient data handling.
+-- 🎯 [Amazon Clone Website](https://github.com/RutujaTathe/Amazon_clone):  
+  A Website built with **HTML**, **Css** like a Amazon website.
 
 
 ## 🌟 Achievements:
