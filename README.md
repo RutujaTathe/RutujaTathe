@@ -13,8 +13,7 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuja-tathe&layout=compact)  
 
 ## 🛠 Projects:
-- [Social Media App](https://github.com/rutuja-tathe/social-media-app): Built with **Angular 17**, **Typescript**,**Spring Boot**, and **MySQL** ,**Java**.  
-- [Another Project](https://github.com/rutuja-tathe/another-project): A brief description of what it does.  
+- [Social Media App](https://github.com/PradipKhandare/SocialHub-webapp): Built with **Angular 17**, **Typescript**,**Spring Boot**, and **MySQL** ,**Java**.  
 
 ## 🌟 Achievements:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rutuja-tathe)  
