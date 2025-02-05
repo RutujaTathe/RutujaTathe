@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me:
 - 🌱 **Currently Learning**: 
   - Advanced **Angular** concepts like RxJS and state management.
-  - **Spring Boot** for backend development.
+  - **JavaScript**.
   - Exploring **AWS** services.
 - 💻 **Core Skills**: 
   - Frontend: **Angular**, **HTML**, **CSS**, **TypeScript**, **Bootstrap**
