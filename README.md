@@ -6,12 +6,8 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me:
-- 🌱 **Currently Learning**: 
-  - Advanced **Angular** concepts like RxJS and state management.
-  - **JavaScript**.
-  - Exploring **AWS** services.
 - 💻 **Core Skills**: 
-  - Frontend: **Angular**, **HTML**, **CSS**, **TypeScript**, **Bootstrap**
+  - Frontend: **Angular** ,**Javascript**,**HTML**, **CSS**, **TypeScript**, **Bootstrap** 
   - Backend: **Java**, **Spring Boot**
   - Database: **SQL**, **MySQL**,**AWS**
  
@@ -34,8 +30,11 @@ Welcome to my GitHub profile!
 ### 🔥 Highlighted Projects:
 - 🎯 [Social Media App](https://github.com/RutujaTathe/Social-Media-App):  
   A application built with **Angular 17**, **Spring Boot**, and **MySQL**. Designed for seamless user interaction and efficient data handling.
-  - 🌟 [Amazon Clone Website](https://github.com/RutujaTathe/Amazon_clone):
+-🌟 [Amazon Clone Website](https://github.com/RutujaTathe/Amazon_clone):
      A Website built with **HTML**, **Css**,**BootStrap**  like a Amazon website.
+- 🎯 [TaskManagementSystem](https://github.com/RutujaTathe/Task-Management-System)
+  A application built with **Angular 17**,use of local Storage designed to streamline and organize employee task assignments on a day-to-day basis. Built using Angular, this project provides an intuitive interface for managing tasks, tracking progress, and enhancing productivity.
+
 
 ## 🌟 Achievements:
 <div align="center">
