@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me:
 - 💻 **Core Skills**: 
-  - Frontend: **Angular** ,**Javascript**,**HTML**, **CSS**, **TypeScript**, **Bootstrap** 
+  - Frontend: **React**,**Angular** ,**Javascript**,**HTML**, **CSS**, **TypeScript**, **Bootstrap** 
   - Backend: **Java**, **Spring Boot**
   - Database: **SQL**, **MySQL**,**AWS**
  
@@ -28,10 +28,16 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Projects:
 ### 🔥 Highlighted Projects:
+- 🎯 [Ai Innovation Studio](https://github.com/RutujaTathe/NeutrinoAIStudio):  
+  A application built with **React**, **Javascript**, and **MaterialUi**. Designed for seamless user interaction and efficient data handling.
+  [https://neutrino-ai-innovation-studio.netlify.app/]
+  
 - 🎯 [Social Media App](https://github.com/RutujaTathe/Social-Media-App):  
   A application built with **Angular 17**, **Spring Boot**, and **MySQL**. Designed for seamless user interaction and efficient data handling.
+  
 - 🎯 [Amazon Clone Website](https://github.com/RutujaTathe/Amazon_clone):
      A Website built with **HTML**, **Css**,**BootStrap**  like a Amazon website.
+  
 - 🎯 [TaskManagementSystem](https://github.com/RutujaTathe/Task-Management-System)
   A application built with **Angular 17**,use of local Storage designed to streamline and organize employee task assignments on a day-to-day basis. Built using Angular, this project provides an intuitive interface for managing tasks, tracking progress, and enhancing productivity.
 
