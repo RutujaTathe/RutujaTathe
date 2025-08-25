@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 
 - 🎯 [Food Delivery Web App](https://github.com/RutujaTathe/Food-Delivery-App)  
   A **React 19** application using the **Swiggy Live API**, **Material UI**, **Tailwind CSS**, **Context API**, and **Redux** to build an interactive food delivery platform with dynamic restaurant menus and real-time data fetching.
-    🌐 [Live Demo](https://food-delivery-aap.netlify.app/)  
+ 🌐 [Live Demo](https://food-delivery-aap.netlify.app/)  
 
 
 - 🎯 [Social Media App](https://github.com/RutujaTathe/Social-Media-App)  
