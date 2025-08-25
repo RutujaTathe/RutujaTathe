@@ -33,7 +33,9 @@ Welcome to my GitHub profile!
   🌐 [Live Demo](https://neutrino-ai-innovation-studio.netlify.app/)  
 
 - 🎯 [Food Delivery Web App](https://github.com/RutujaTathe/Food-Delivery-App)  
-  A **React 19** application using the **Swiggy Live API**, **Material UI**, **Tailwind CSS**, **Context API**, and **Redux** to build an interactive food delivery platform with dynamic restaurant menus and real-time data fetching.  
+  A **React 19** application using the **Swiggy Live API**, **Material UI**, **Tailwind CSS**, **Context API**, and **Redux** to build an interactive food delivery platform with dynamic restaurant menus and real-time data fetching.
+    🌐 [Live Demo](https://food-delivery-aap.netlify.app/)  
+
 
 - 🎯 [Social Media App](https://github.com/RutujaTathe/Social-Media-App)  
   Built with **Angular 17**, **Spring Boot**, and **MySQL**. Enables users to interact seamlessly and manage data efficiently.  
@@ -46,10 +48,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🌟 Achievements:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RutujaTathe&theme=onestar&row=1&no-frame=true" alt="Trophies" />
-</div>  
+
 
 ---
 
