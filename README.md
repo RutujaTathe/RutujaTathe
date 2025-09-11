@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me:
 - 💻 **Core Skills**:  
-  - **Frontend**: **React (Hooks, Context API, Redux)**, **Angular**, **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3**, **Bootstrap**, **Material UI**, **Tailwind CSS**  
+  - **Frontend**: **React (Hooks, Context API, Redux)**,**React Testing Library** ,**Jest** ,**Angular**, **JavaScript (ES6+)**, **TypeScript**, **HTML5**, **CSS3**, **Bootstrap**, **Material UI**, **Tailwind CSS**  
   - **Backend**: **Java**, **Spring Boot**  
   - **Database & Cloud**: **SQL**, **MySQL**, **AWS**  
 
